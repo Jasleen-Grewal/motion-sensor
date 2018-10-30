@@ -1,2 +1,1 @@
-# motion-sensor
-BNO055 
+## Adafruit BNO055 Absolute Orientation Sensor##
