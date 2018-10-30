@@ -1,7 +1,11 @@
 
 ## Progress Report 
 
-bno055 imu 
+bno055 imu  with pcb 
+
+
+![pcb2_pcb](https://user-images.githubusercontent.com/43187410/47754638-f5ea7a80-dc71-11e8-91a3-300963e8d986.jpg)
+
 
 
 ## webgl_demo
