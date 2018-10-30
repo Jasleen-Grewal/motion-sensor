@@ -1,1 +1,1 @@
-## Adafruit BNO055 Absolute Orientation Sensor##
+## Adafruit BNO055 Absolute Orientation Sensor
