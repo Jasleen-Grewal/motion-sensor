@@ -7,6 +7,13 @@ bno055 imu  with pcb
 ![pcb2_pcb](https://user-images.githubusercontent.com/43187410/47754638-f5ea7a80-dc71-11e8-91a3-300963e8d986.jpg)
 
 
+## PCB in real 
+
+
+![img_6298](https://user-images.githubusercontent.com/43187410/48099180-c517c180-e1ec-11e8-9c5c-fc2b66408e56.jpg)
+
+![img_6299](https://user-images.githubusercontent.com/43187410/48099186-c9dc7580-e1ec-11e8-97c9-a4f13cfdd9e6.jpg)
+
 
 ## webgl_demo
 ![img_6188](https://user-images.githubusercontent.com/43187410/47749820-4bb82600-dc64-11e8-853d-81ab558b881b.JPG)
