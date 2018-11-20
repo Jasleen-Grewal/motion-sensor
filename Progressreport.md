@@ -15,6 +15,31 @@ bno055 imu  with pcb
 ![img_6299](https://user-images.githubusercontent.com/43187410/48099186-c9dc7580-e1ec-11e8-97c9-a4f13cfdd9e6.jpg)
 
 
+
+## draw case 
+
+![87d363d8-7557-41ca-98db-19422742df69](https://user-images.githubusercontent.com/43187410/48809379-56f5f300-ecf2-11e8-883e-52d485eef92b.JPG)
+
+##1 
+![img_6496](https://user-images.githubusercontent.com/43187410/48809409-7856df00-ecf2-11e8-8bbe-adc56bfc00eb.jpg)
+##2 
+![img_6494](https://user-images.githubusercontent.com/43187410/48809416-80168380-ecf2-11e8-94da-6e82497d6742.jpg)
+##3 
+![img_6493](https://user-images.githubusercontent.com/43187410/48809428-8dcc0900-ecf2-11e8-910f-1d76aac6dae4.jpg)
+
+## pcb Working 
+![img_6491](https://user-images.githubusercontent.com/43187410/48809443-a1776f80-ecf2-11e8-8203-ac5ad91d5c0b.jpg)
+
+##
+output 
+![img_6492](https://user-images.githubusercontent.com/43187410/48809456-afc58b80-ecf2-11e8-9cb1-17b4b59bf661.jpg)
+
+
+
+
+
+
+
 ## webgl_demo
 ![img_6188](https://user-images.githubusercontent.com/43187410/47749820-4bb82600-dc64-11e8-853d-81ab558b881b.JPG)
 
