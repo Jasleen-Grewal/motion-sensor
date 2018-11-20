@@ -15,10 +15,7 @@ bno055 imu  with pcb
 ![img_6299](https://user-images.githubusercontent.com/43187410/48099186-c9dc7580-e1ec-11e8-97c9-a4f13cfdd9e6.jpg)
 
 
-
-## draw case 
-
-![87d363d8-7557-41ca-98db-19422742df69](https://user-images.githubusercontent.com/43187410/48809379-56f5f300-ecf2-11e8-883e-52d485eef92b.JPG)
+# case 
 
 ##1 
 ![img_6496](https://user-images.githubusercontent.com/43187410/48809409-7856df00-ecf2-11e8-8bbe-adc56bfc00eb.jpg)
